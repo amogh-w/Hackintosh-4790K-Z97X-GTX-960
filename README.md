@@ -19,7 +19,7 @@ I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z
 3. Audio: `AppleALC.kext` with `Lilu.kext` companion
 4. Graphics: `WhateverGreen.kext` with `Lilu.kext` companion
 
-![desktop](https://github.com/amogh-w/PlutoRailwayLogin/blob/master/screenshots/desktop.png?raw=true)
+![desktop](https://github.com/amogh-w/Hackintosh-4790K-Z97X-GTX-960/blob/master/screenshots/desktop.png?raw=true)
 
 ## Disclaimer
 
