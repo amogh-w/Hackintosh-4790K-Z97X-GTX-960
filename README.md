@@ -16,10 +16,10 @@ I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z
 0. SMC: `VirtualSMC.kext`
 1. Ethernet: `AtherosE2200Ethernet.kext`
 2. USB: `USBInjectAll.kext` and `FakePCIID.kext + FakePCIID_XHCIMux.kext`
-3. Audio: `AppleALC.kextAppleALC.kext` with `Lilu.kext` companion
+3. Audio: `AppleALC.kext` with `Lilu.kext` companion
 4. Graphics: `WhateverGreen.kext` with `Lilu.kext` companion
 
-![screnshot-2](https://github.com/amogh-w/PlutoRailwayLogin/blob/master/screenshots/booking%20page.png?raw=true)
+![desktop](https://github.com/amogh-w/PlutoRailwayLogin/blob/master/screenshots/desktop.png?raw=true)
 
 ## Disclaimer
 
