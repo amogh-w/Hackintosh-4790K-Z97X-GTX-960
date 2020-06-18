@@ -1,15 +1,14 @@
 # Hackintosh 4790K Z97X GTX 960
 
-I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z97X Gaming 5 and GTX 960. All ports are working fine with USB 3.0 transfer speeds with the Port Limit Patch by PMHeart. I dont use a Wifi Card or Bluetooth Card but they should work with the necessary kexts.
+I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z97X Gaming 5 and GTX 960 with OpenCore 0.5.9.
 
-![about](https://github.com/amogh-w/Hackintosh-4790K-Z97X-GTX-960/blob/master/screenshots/about.png?raw=true)
+![opencore](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
 ## Resources:
 
 * [r/Hackintosh](https://www.reddit.com/r/hackintosh/) - A subreddit to learn about Hackintosh-ing
-* [Clover EFI bootloader](https://sourceforge.net/projects/cloverefiboot/) - You can get the Custom Bootloader here
-* [Vanilla Install Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) - Best guide available on the planet
-* [tonymacx86](https://www.tonymacx86.com/) - A community of like-minded hackintoshers
+* [OpenCore](https://github.com/acidanthera/OpenCorePkg/) - You can get the Custom Bootloader here
+* [dortania OpenCore Guide](https://dortania.github.io/OpenCore-Desktop-Guide/) - Best guide available on the planet
 
 ## Kexts that I have used:
 
