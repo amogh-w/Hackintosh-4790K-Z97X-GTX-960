@@ -1,6 +1,8 @@
 # Hackintosh 4790K Z97X GTX 960
 
-I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z97X Gaming 5 and GTX 960 with OpenCore 0.5.9.
+I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z97X Gaming 5 and GTX 960 with OpenCore.
+
+Note: Don't copy over my EFI and expect it to boot. Use it as a reference and build your own while referring to the dortania OpenCore Guide linked below. Have fun!
 
 ![opencore](https://github.com/acidanthera/OpenCorePkg/raw/master/Docs/Logos/OpenCore_with_text_Small.png)
 
@@ -14,7 +16,7 @@ I have managed to succesfully run High Sierra 10.13.6 on my i7-4790k, Gigabyte Z
 
 0. SMC: `VirtualSMC.kext`
 1. Ethernet: `AtherosE2200Ethernet.kext`
-2. USB: `USBInjectAll.kext` and `FakePCIID.kext + FakePCIID_XHCIMux.kext`
+2. USB: `USBInjectAll.kext`
 3. Audio: `AppleALC.kext` with `Lilu.kext` companion
 4. Graphics: `WhateverGreen.kext` with `Lilu.kext` companion
 
